@@ -1,0 +1,7 @@
+-Registrazione
+-Login
+-Partecipazione bando
+-Suggerimento bandi
+-Konora
+-Notifiche
+-Profilo
